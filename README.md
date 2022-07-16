@@ -34,12 +34,6 @@ pip install -r requirements.txt
 
 A standard .gitignore file has already added to the project root directory. 
 
-### python-decouple
-
-- Create .env file on root directory. We will collect our variables in this file.
-```py
-SECRET_KEY=o5o9...
-```
 
 - Migrate:
 ```bash
